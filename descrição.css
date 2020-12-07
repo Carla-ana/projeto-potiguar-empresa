@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Roboto';
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    color:blueviolet;
+}
+
+a:hover, a:active{
+    background-color: indianred;
+    color:white;
+}

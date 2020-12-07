@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Roboto';
+    color: black;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+form{
+    margin: 0% 15% 0% 15%;
+    width: auto;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+}
+
+input[type=text], input[type=mail], input[type=number], input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+#btn-enviar{
+    background-color: aliceblue;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    font-size: 14px;
+    margin: 8px 10px;
+    cursor: pointer;
+}
+
+.btn{
+    margin-bottom: 20px;
+    float: right;
+    clear: right;
+}
+
+#btn-enviar:hover{
+    background-color: gainsboro;
+}
+
+a:hover, a:active{
+    background-color: indianred;
+    color:white;
+}
+
+
