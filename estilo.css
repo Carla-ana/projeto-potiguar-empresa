@@ -1,0 +1,56 @@
+body{
+    background-image: url(figuras/fundo.jpeg);
+    font-family: 'Times';
+    color: white;
+    
+}
+
+h1{
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    margin: 70px 400px 70px 400px;
+}
+
+h2{
+    text-align: center;
+}
+
+.links{
+    margin: 4px;
+}
+
+ul{
+    margin: 0;
+    padding: 0,
+}
+
+li{
+    list-style: none;
+    margin: 20px;
+    display: inline;
+}
+
+li a{
+    padding: 5px, 10px;
+    margin: 0;
+    border: opx solid #foo;
+    text-decoration: none;
+    color: black;
+    /*cantos arredondados*/
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius: 5px;
+}
+
+li a:hover{
+    background: yellow;
+    color:black;
+    border-color:#000;
+}
+
+h3{
+    color: black;    
+}
+ 

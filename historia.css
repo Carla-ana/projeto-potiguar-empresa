@@ -1,0 +1,22 @@
+body{
+    background-image: url(Figuras/fundo.jpeg);
+    font-family: 'Roboto';
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    text-align: left;
+    color: dimgray;
+    
+}
+
+a:hover, a:active{
+    background-color: yellow;
+    color:black;
+    
+}

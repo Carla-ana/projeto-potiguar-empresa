@@ -1,0 +1,27 @@
+body{
+    background-image:url(Figuras/fundo.jpeg);
+    font-family: 'Roboto';
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: white
+}
+
+th{
+    background-color: white;
+}
+
+tr, td,th{
+    position: 10px 3px 10px 3px;
+    margin: 0% 10% 10% 10%;
+    width: auto;
+    height: auto;
+}
+
+
+a:hover, a:active{
+    background-color: yellow;
+    color:black;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+    font-family: 'Roboto';
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    color:darkblue;
+}
+
+a:hover, a:active{
+    background-color: yellow;
+    color:black;
+}
